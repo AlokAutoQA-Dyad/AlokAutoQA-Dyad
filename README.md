@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alok Kumar NAyak</h1>
+<h1 align="center">Hi 👋, I'm Alok Kumar Nayak</h1>
 <h3 align="center">QA Automation Engineer |7+ Years in Software Testing & Automation 🔹 Expert in Java Selenium Framework Development 🔹 Hands-on with Python Playwright 🔹 Strong experience in API Automation & CI/CD 🔹 Agile/Scrum practitioner 🔹 Focused on building scalable & maintainable automation solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alokautoqa-dyad&label=Profile%20views&color=0e75b6&style=flat" alt="alokautoqa-dyad" /> </p>
