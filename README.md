@@ -16,13 +16,9 @@
   <a href="mailto:alok.nayak@dyadtech.com">
     <img src="https://img.shields.io/badge/Email-alok.nayak%40dyadtech.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
-</p>
-
-<p>
   <a href="https://www.linkedin.com/in/alok-kumar-nayak">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-
 </p>
 
 </div>
