@@ -149,12 +149,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlokAutoQA-Dyad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="AlokAutoQA-Dyad's github stats" />
+  <img height="165" src="https://github-readme-stats-nae6pjmnk-alokautoqa-dyads-projects.vercel.app/api?username=AlokAutoQA-Dyad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="AlokAutoQA-Dyad's github stats" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AlokAutoQA-Dyad&theme=tokyonight&hide_border=true" alt="AlokAutoQA-Dyad's streak stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlokAutoQA-Dyad&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="top languages" />
+  <img src="https://github-readme-stats-nae6pjmnk-alokautoqa-dyads-projects.vercel.app/api/top-langs/?username=AlokAutoQA-Dyad&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="top languages" />
 </p>
 
 <p align="center">
