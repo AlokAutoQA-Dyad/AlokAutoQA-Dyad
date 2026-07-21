@@ -2,7 +2,7 @@
 
 # Hi, I'm Alok Kumar Nayak 👋
 
-### QA Automation Engineer &nbsp;|&nbsp; 7+ Years in Software Quality Engineering
+### QA Automation Engineer &nbsp;|&nbsp; 8+ Years in Software Quality Engineering
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=4285F4&center=true&vCenter=true&width=800&lines=QA+Automation+Engineer+%7C+7%2B+Years+Experience;Java+%7C+Selenium+%7C+Playwright+%7C+API+Automation;Building+Scalable%2C+Maintainable+Test+Frameworks;CI%2FCD+%7C+Agile%2FScrum+%7C+Quality+Champion+%F0%9F%8F%86)](https://git.io/typing-svg)
 
@@ -16,11 +16,9 @@
   <a href="mailto:alok.nayak@dyadtech.com">
     <img src="https://img.shields.io/badge/Email-alok.nayak%40dyadtech.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
-  <!-- Add your LinkedIn once you share the URL:
-  <a href="https://linkedin.com/in/YOUR-HANDLE">
+  <a href="https://www.linkedin.com/in/alok-kumar-nayak">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-  -->
 </p>
 
 </div>
@@ -45,7 +43,7 @@
 | Attribute | Value |
 |---|---|
 | 🧑‍💻 Class | QA Automation Engineer |
-| ⭐ Level | 7 (Years of Experience) |
+| ⭐ Level | 8 (Years of Experience) |
 | 🛡️ Main Weapon | Java + Selenium Framework Development |
 | 🗡️ Secondary Weapon | Python + Playwright |
 | 🎯 Current Quest | Nexsure |
