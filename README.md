@@ -156,7 +156,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlokAutoQA-Dyad&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
+  <img src="https://github-profile-trophy-eight-tau.vercel.app/?username=AlokAutoQA-Dyad&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
 </p>
 
 ---
