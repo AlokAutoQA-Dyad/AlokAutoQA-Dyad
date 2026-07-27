@@ -8,7 +8,7 @@
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=AlokAutoQA-Dyad&label=Profile%20Views&color=4285F4&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/badge/Experience-7%2B%20Years-34A853?style=for-the-badge" alt="experience" />
+  <img src="https://img.shields.io/badge/Experience-8%2B%20Years-34A853?style=for-the-badge" alt="experience" />
   <img src="https://img.shields.io/badge/Focus-Test%20Automation-FBBC05?style=for-the-badge&logoColor=black" alt="focus" />
 </p>
 
