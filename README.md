@@ -4,7 +4,7 @@
 
 ### QA Automation Engineer &nbsp;|&nbsp; 8+ Years in Software Quality Engineering
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=4285F4&center=true&vCenter=true&width=800&lines=QA+Automation+Engineer+%7C+7%2B+Years+Experience;Java+%7C+Selenium+%7C+Playwright+%7C+API+Automation;Building+Scalable%2C+Maintainable+Test+Frameworks;CI%2FCD+%7C+Agile%2FScrum+%7C+Quality+Champion+%F0%9F%8F%86)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=4285F4&center=true&vCenter=true&width=800&lines=QA+Automation+Engineer+%7C+8%2B+Years+Experience;Java+%7C+Selenium+%7C+Playwright+%7C+API+Automation;Building+Scalable%2C+Maintainable+Test+Frameworks;CI%2FCD+%7C+Agile%2FScrum+%7C+Quality+Champion+%F0%9F%8F%86)](https://git.io/typing-svg)
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=AlokAutoQA-Dyad&label=Profile%20Views&color=4285F4&style=for-the-badge" alt="profile views" />
